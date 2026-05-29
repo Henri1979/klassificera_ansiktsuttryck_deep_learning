@@ -219,7 +219,9 @@ __marimo__/
 
 # Project data
 data/
-models/
+
+models/*
+!models/ansiktsmodell.keras
 
 # Virtual environment
 .venv/
